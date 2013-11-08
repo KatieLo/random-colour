@@ -1,0 +1,13 @@
+button {
+	display: block;
+	margin: auto;
+	margin-top: 50px;
+	font-size: 2em;
+	border: 2px solid red;
+	border-radius: 15px;
+	background-color: #f05400;
+}
+
+button:focus {
+	outline: none;
+}
